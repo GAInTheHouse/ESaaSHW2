@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CHIP 3.7: Wordguesser: a scaffolded (!) ESaaS getting-started assignment
 
 
@@ -56,3 +57,6 @@ Contents
 * [Submission](instructions/07-Submission.md)
 * [Conclusion](instructions/08-Conclusion.md)
 * [Optional Challenge Assignment](instructions/09-Optional-challenge-assignment.md)
+=======
+# ESaaSHW2
+>>>>>>> gh/main
